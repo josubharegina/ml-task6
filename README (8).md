@@ -26,4 +26,4 @@ This repository contains a Jupyter notebook (`Untitled8 (1).ipynb`) for explorat
 Install the required packages
 
 
-## S KIRITHIK BALAN
+## SUBHA S M
